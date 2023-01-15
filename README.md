@@ -7,9 +7,12 @@ Shows the game you're playing inside Roblox.
 You will need to provide your roblox cookie in order to use it. Follow these steps to add your cookie and start using the presence:
 
 1. Make sure the repository is cloned locally
-2. Open the `.env` file and enter your [.ROBLOSECURITY cookie](https://roblox.fandom.com/wiki/.ROBLOSECURITY).
+2. Create the `.env` file and enter your [.ROBLOSECURITY cookie](https://roblox.fandom.com/wiki/.ROBLOSECURITY), like this:    
+   ```
+   ROBLOX_COOKIE=Your_Roblox_Cookie_Here
+   ```   
    **Side note: Do not share the cookie with anyone, keep it only to this .env file, as it is basically your account session which means anyone could access it if they have the cookie!**
-3. Run the script using `npm start`.
+4. Run the script using `npm start`.
 
 ## Configuration
 
