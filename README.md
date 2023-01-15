@@ -2,6 +2,25 @@
 
 Shows the game you're playing inside Roblox.
 
+## Preview
+
+Member list
+
+![](screenshots/rpc.png)
+
+User popout (provides a link to the user's profile)
+
+![](screenshots/popout.png)
+
+In-game (avatar thumbnail switches to headshot and provides a link to the game)
+
+![](screenshots/in_game.png)
+
+
+## ⚠️ Important Notice
+
+This program is kind of unstable and can crash sometimes due to the API timing out randomly. I'm unsure how to fix it, so I am just warning you that this can happen.
+
 ## Setup
 
 You will need to provide your roblox cookie in order to use it. Follow these steps to add your cookie and start using the presence:
