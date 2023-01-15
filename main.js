@@ -123,7 +123,6 @@ function updatePresence(Presence) {
     details,
     state,
     buttons,
-    //   buttons: [
     //     {
     //       label: "Test Button 01",
     //       url: "https://thats-the.name/",
